@@ -1,4 +1,4 @@
-REM --> Minimize all windows
+REM --> Minimise all windows
 GUI d
 DELAY 1000
 REM Open cmd
