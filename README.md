@@ -14,4 +14,4 @@ I know this script is pretty basic. But hey, you have to start somewhere, right?
 
 I tested it on the Net Hunter RUCKY App and it worked perfectly. It should also work with the traditional Rubber Ducky. Please let me know if you have any issues or want to contribute :) Cheers!
 
-PS: Only use it against your own Windows 10 copmputer. Do not break the law. Always be nice!
+PS: Only use it against your own Windows 10 computer. Do not break the law. Always be nice!
